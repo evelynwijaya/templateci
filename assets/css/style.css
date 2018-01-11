@@ -1,0 +1,84 @@
+
+.masthead {
+    min-height: 30rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/large.png);
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #edcc10;
+    text-align: left;
+    background-color: #000;
+}
+
+#sidebar-wrapper {
+    position: fixed;
+    z-index: 2;
+    right: 0;
+    width: 250px;
+    height: 100%;
+    -webkit-transition: all .4s ease 0s;
+    -moz-transition: all .4s ease 0s;
+    -ms-transition: all .4s ease 0s;
+    -o-transition: all .4s ease 0s;
+    transition: all .4s ease 0s;
+    transform: translateX(250px);
+    background: #333230;
+    border-left: 1px solid rgba(255,255,255,.1);
+}
+
+.sidebar-nav li.sidebar-nav-item a {
+    display: block;
+    text-decoration: none;
+    color: #efd217;
+    padding: 15px;
+}
+
+.btn-primary {
+    background-color: #efd217!important;
+    border-color: #efd217!important;
+    color: #fff!important;
+}
+
+footer.footer .social-link:hover {
+    background-color: #efd217;
+    text-decoration: none;
+}
+
+footer.footer .social-link {
+    display: block;
+    height: 4rem;
+    width: 4rem;
+    line-height: 4.3rem;
+    font-size: 1.5rem;
+    background-color: #000;
+    transition: background-color .15s ease-in-out;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+}
+
+.h3, h3 {
+    font-size: 0.75rem;
+}
+
+p
+{
+  color: #ddd9c1;
+}
+
+#gambar{
+  width: 100px;
+  height: 200px;
+}
