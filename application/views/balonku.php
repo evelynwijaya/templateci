@@ -1,6 +1,6 @@
 <header class="masthead d-flex">
   <div class="container text-center my-auto">
-    <marquee direction="up" scrollamount="30"><img src="/assets/img/balon.png" id="balon"></marquee>
+    <marquee direction="up" scrollamount="30"><img src="/assets/img/balon.png"></marquee>
           <p >
             Balonku Ada Lima <br>
             Rupa-rupa Warnanya <br>

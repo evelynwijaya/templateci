@@ -1,0 +1,8 @@
++10 Tugas Selesai
++5 untuk semua lagu dipanggil dari 1 controller
++2x5 = +10 untuk setiap function dalam controller
++2x9 = +18 untuk setiap custom selektor dalam custom css
+
+-3 untuk tombol back
+
+Total : 40
