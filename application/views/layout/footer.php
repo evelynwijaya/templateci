@@ -40,6 +40,9 @@
 <!-- Custom scripts for this template -->
 <script src="/assets/js/stylish-portfolio.min.js"></script>
 
+<script type="text/javascript" src="/assets/js/datatables.min.js"></script>
+<script type="text/javascript" src="/assets/js/pweb171.js"></script>
+
 </body>
 
 </html>

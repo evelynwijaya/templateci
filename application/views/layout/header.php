@@ -21,6 +21,7 @@
     <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/assets/css/stylish-portfolio.min.css" rel="stylesheet">
     <link href="/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/assets/css/datatables.min.css"/>
 
 
   </head>

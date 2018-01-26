@@ -19,10 +19,9 @@ class Welcome extends CI_Controller {
 
 	public function pelangi()
 	{
-		$this->load->view('layout/header');
-		$this->load->view('layout/nav');
-		$this->load->view('pelangi');
-		$this->load->view('layout/footer');
+
+		$this->load->template('pelangi');
+
 	}
 
 	public function balonku()
